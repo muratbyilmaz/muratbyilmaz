@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <h3 align="left">
 I'm a Mechanical Engineer.
   
-<br>- 🔭 I’m currently working on Aerodynamic and Thermal Design program including basic FEA/CFD Tools in Python.
+<br>- 🔭 I’m currently working on Aerodynamic and Thermal Design program & basic FEA/CFD Tools in Python.
 <br>- 🌱 I’m currently mastering Python and learning more about Java, PHP, MySQL</h3>
 <h1> </h1>
 
